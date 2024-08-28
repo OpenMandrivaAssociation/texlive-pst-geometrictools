@@ -1,6 +1,6 @@
 Name:		texlive-pst-geometrictools
-Version:	61430
-Release:	2
+Version:	70953
+Release:	1
 Summary:	A PSTricks package to draw geometric tools
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pst-geometrictools
